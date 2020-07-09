@@ -1,3 +1,9 @@
+/*
+  TASK   : TemplateC
+  ARTHOR : IceBorworntat
+  SCHOOL : RYW
+  LANG   : CPP
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
