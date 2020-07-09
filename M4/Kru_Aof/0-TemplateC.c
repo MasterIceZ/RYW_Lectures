@@ -2,7 +2,7 @@
   TASK   : TemplateC
   ARTHOR : IceBorworntat
   SCHOOL : RYW
-  LANG   :  C
+  LANG   : C
 */
 //includes
 #include <stdio.h>
