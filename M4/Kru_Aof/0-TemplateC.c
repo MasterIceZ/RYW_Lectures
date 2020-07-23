@@ -18,6 +18,7 @@
 #define us unsigned
 #define f0(a,b,c) for(a=b;a<c;a++)
 #define f1(a,b,c) for(a=b;a<=c;a++)
+#define infi 1e9
 
 int main (){
   
