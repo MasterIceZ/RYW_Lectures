@@ -6,4 +6,6 @@
 #define print printf
 #define scan scanf
 //debug
-print("include by : iceBorworntat");
+void lic(){
+  print("include by : iceBorworntat");
+}
