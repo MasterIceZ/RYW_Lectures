@@ -6,7 +6,7 @@ int main (){
   int n;
   scanf("%d",&n);
   for(int i=0;i<n;++i){
-    printf("%c",s[i%strlen(s)];
+    printf("%c",s[i%strlen(s)]);
   }
   printf("\n");
   return 0;
