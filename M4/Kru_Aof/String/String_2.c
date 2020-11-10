@@ -11,6 +11,6 @@ int main (){
       printf("%c",s[i]);
     }
   }
-  prinrf("\n");
+  printf("\n");
   return 0;
 }
