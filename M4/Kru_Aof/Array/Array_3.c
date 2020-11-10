@@ -3,7 +3,7 @@
 char s[1010];
 int main (){
   scanf(" %s",s);
-  for(int i=0,j=strlen(s)-1;++i,--j){
+  for(int i=0,j=strlen(s)-1;i<strlen(s);++i,--j){
     if(s[i]!=s[j]){
       printf("No\n");
       return 0;
