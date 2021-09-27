@@ -3,5 +3,5 @@
 |Mon|Computer||||||||IOT|
 |Tue||||||History|||||
 |Wed||English|Astronomy||||||||
-|Thu|Math||Social|||
+|Thu|Math|||Social||
 |Fri|English|Math|Computer||||||Chemistry||
