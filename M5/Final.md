@@ -5,7 +5,7 @@
 |5 Oct 2021|[Astronomy][Ast]||
 |6 Oct 2021|[Math(Additional)][Math2]|[Physics][Phy]|
 |7 Oct 2021|[Chem(Additional)][Chem2]|[Biology][Bio]|
-|8 Oct 2021||Health|
+|8 Oct 2021|[Computer(retest)][Computer]|Health|
 
 [Math1]: https://meet.google.com/lookup/ctqza3zspv
 [Math2]:https://us02web.zoom.us/j/6463824790?pwd=ZmRZcU1NT1RaRW12M24wRXRKM2c4UT09
@@ -14,3 +14,4 @@
 [Chem1]: https://meet.google.com/ufk-mnsf-aej
 [Chem2]: https://meet.google.com/lookup/fs2mb4nn6o
 [Bio]: https://meet.google.com/lookup/dk4vbsauko
+[Computer]: https://meet.google.com/lookup/anvwxbl3rl?authuser=0&hs=179
